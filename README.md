@@ -22,6 +22,7 @@ The key steps involved in predicting rocks vs. mines using machine learning in 5
 5. Fine-Tuning and Deployment:
    - Fine-tune the model based on the evaluation results, considering adjustments to hyperparameters or exploring different feature sets.
    - Once satisfied with the model's performance, deploy it for making predictions on new, unseen data.
-   - Establish a monitoring system to track the model's performance over time and update it as needed, considering factors like evolving environmental conditions or changes in data characteristics.
+   - Establish a monitoring system to track the model's performance over time and update it as needed, considering factors like evolving environmental conditions or changes 
+     in data characteristics.
   
-   - 
+   
